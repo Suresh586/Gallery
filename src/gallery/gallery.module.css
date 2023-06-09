@@ -1,0 +1,16 @@
+
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.image{
+    height: 200;
+    width:250
+
+}
+.box{
+    size: 500px;
+    margin: 0.5rem;
+}
