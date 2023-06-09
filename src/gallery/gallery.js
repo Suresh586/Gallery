@@ -10,9 +10,15 @@ const Gallery=({data},props)=>{
                     <img alt={`${props.search} snap`} className={classes.image} src={`https://farm${image.farm}.staticflickr.com/${image.server}/${image.id}_${image.secret}_m.jpg`}/>
 
                     </div>
+                    
                    
                 </div>
                 )}
+                
+
+            </div>
+            Simple div
+            <div>
 
             </div>
         </div>
